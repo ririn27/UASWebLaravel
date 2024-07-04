@@ -2,7 +2,7 @@
 
 # Aplikasi Laundry Sederhana
 
-Aplikasi ini merupakan aplikasi laundry sederhana yang dibuat dengan framework Laravel 7 (sudah diupgrade ke Laravel 9). Aplikasi ini adalah project untuk menyelesaikan UAS semester 4 Mata kuliah Pemograman Web 2 Teknik Informatika Umiversitas Pelita Bangsa .
+Aplikasi ini merupakan aplikasi laundry sederhana yang dibuat dengan framework Laravel 7 (sudah diupgrade ke Laravel 9). Aplikasi ini adalah project untuk menyelesaikan UAS Semester 4 Mata kuliah Pemograman Web 2 Teknik Informatika Universitas Pelita Bangsa .
 
 Daftar/Register admin dengan url `/register-admin`. Secret key dapat diubah di env atau default "Secret123".
 
